@@ -1,0 +1,16 @@
+<schedule>
+    <lesson>
+        <time>17:00</time>
+        <subject>Теория функций комплексного переменного</subject>
+        <lecturer>Бойцев Антон Александрович</lecturer>
+        <audience>1405</audience>
+        <address>Кронверкский пр., д.49, лит.А</address>
+    </lesson>
+    <lesson>
+        <time>18:40</time>
+        <subject>Теория функций комплексного переменного</subject>
+        <lecturer>Бойцев Антон Александрович</lecturer>
+        <audience>1405</audience>
+        <address>Кронверкский пр., д.49, лит.А</address>
+    </lesson>
+</schedule>
